@@ -1,0 +1,5 @@
+sayHelloWorld(){
+	echo "Hello"
+}
+sayHelloWorld
+
